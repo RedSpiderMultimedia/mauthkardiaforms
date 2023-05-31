@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Zapfino';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Zapfino'), url('Zapfino.woff') format('woff');
+    }
+
+
+    h1 {
+        font-family: 'Zapfino';
+        color: #4F8FCD;
+        font-size: 3rem;
+    }
+
+    h3 {
+        color: #4F8FCD;
+    }
